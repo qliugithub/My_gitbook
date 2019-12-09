@@ -7,4 +7,4 @@
 * [ggplot2 曲线图](从一个图的实战来升华R语言.md)
 
 ## 文献翻译
-* [SNPsplit 软件参数详解](SNPsplit 软件参数详解.md)
+* [SNPsplit 软件参数详解](SNPsplit软件参数.md)
